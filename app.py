@@ -1,9 +1,6 @@
 import streamlit as st
 import joblib
 import numpy as np
-import sklearn
-
-
 
 def local_css(file_name):
     with open(file_name) as f:
